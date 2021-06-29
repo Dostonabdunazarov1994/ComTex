@@ -1,0 +1,11 @@
+C:\Users\Acer\Desktop\ComTexHome\ComTexHome\bin\Debug\ComTexHome.exe.config
+C:\Users\Acer\Desktop\ComTexHome\ComTexHome\bin\Debug\ComTexHome.exe
+C:\Users\Acer\Desktop\ComTexHome\ComTexHome\bin\Debug\ComTexHome.pdb
+C:\Users\Acer\Desktop\ComTexHome\ComTexHome\obj\Debug\ComTexHome.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\ComTexHome\ComTexHome\obj\Debug\ComTexHome.csproj.ResolveComReference.cache
+C:\Users\Acer\Desktop\ComTexHome\ComTexHome\obj\Debug\ComTexHome.Form1.resources
+C:\Users\Acer\Desktop\ComTexHome\ComTexHome\obj\Debug\ComTexHome.Properties.Resources.resources
+C:\Users\Acer\Desktop\ComTexHome\ComTexHome\obj\Debug\ComTexHome.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\ComTexHome\ComTexHome\obj\Debug\ComTexHome.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\ComTexHome\ComTexHome\obj\Debug\ComTexHome.exe
+C:\Users\Acer\Desktop\ComTexHome\ComTexHome\obj\Debug\ComTexHome.pdb
